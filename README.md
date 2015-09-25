@@ -1,1 +1,3 @@
-# DealOrNoDeal
+# DealOrNoDeal (In Progress)
+
+Try your luck at winning the $1,000,000 prize! Based off of the famous TV game show Deal or No Deal, this Android app allows users to experience the thrill and anticipation of the game without unnecessary commercial breaks. Show host Howie Mandel's voice is used to generate a dynamical remark when the user chooses to reveal a case. Furthermore, an algorithm is used to the determine the banker's offer to the player after every period of case selection; the algorithm takes into account the cases opened, cases unopened, and the probability that the next case opened will be in the high prize reward range. 
